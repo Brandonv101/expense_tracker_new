@@ -3,7 +3,7 @@ import 'package:expense_tracker_new/models/expense.dart';
 import 'package:flutter/material.dart';
 
 import 'package:expense_tracker_new/widgets/widgets/chart/chart_bar.dart';
-import 'expense.dart';
+import 'package:expense_tracker_new/widgets/expense.dart';
 
 class Chart extends StatelessWidget {
   const Chart({super.key, required this.expenses});
